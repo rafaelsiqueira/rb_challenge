@@ -1,0 +1,21 @@
+{
+  "name": "RB-Challenge-Backend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Rafael Siqueira <rafael@siqueira.net",
+  "dependencies": {
+    "bower": "1.5.3",
+    "restify": "4.0.3",
+    "chokidar": "1.1.0",
+    "mongoose": "4.1.9",
+    "js2xmlparser": "1.0.0",
+    "xml2js": "0.4.12"
+  },
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node --verbose --captureExceptions --forceexit test/"
+  },
+  "devDependencies": {
+    "q": "1.4.1",
+    "jasmine-node": "^1.14.5"
+  }
+}

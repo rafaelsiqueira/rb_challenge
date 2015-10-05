@@ -1,0 +1,15 @@
+{
+  "name": "RB-Challenge-Frontend",
+  "description": "R&B Chanllenge - Frontend",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rafaelsiqueira/challenge",
+  "authors": [
+    "Rafael Siqueira <rafael@siqueira.net>"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-bootstrap": "~0.13.0",
+    "bootstrap": "~3.3.4"
+  }
+}
